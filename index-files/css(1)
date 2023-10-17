@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20230723183624im_/https://fonts.gstatic.com/s/amita/v16/HhyaU5si9Om7PTlmC_CoEoZK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20230723183624im_/https://fonts.gstatic.com/s/amita/v16/HhyXU5si9Om7PTHTLuCLMI5gT7kJ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20230723183624im_/https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp5hNP6pg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20230723183624im_/https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3ROp5hNP6pg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20230723183624im_/https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03ROp5hNP6pg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20230723183624im_/https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03ROp5hNP6pg.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 18:36:24 Jul 23, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:42:20 Oct 17, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 143.0
+  exclusion.robots: 0.08
+  exclusion.robots.policy: 0.072
+  cdx.remote: 0.08
+  esindex: 0.008
+  LoadShardBlock: 105.708 (3)
+  PetaboxLoader3.datanode: 90.284 (5)
+  load_resource: 77.595
+  PetaboxLoader3.resolve: 32.958
+  loaddict: 23.611
+*/

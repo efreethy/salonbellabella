@@ -1,0 +1,60 @@
+.wprs_unslider{overflow:visible;margin:0;padding:0;position: relative;}
+.wprs_unslider-wrap{position:relative}
+.wprs_unslider-wrap.wprs_unslider-carousel>li{float:left}
+.wprs_unslider-vertical>ul{height:100%}
+.wprs_unslider-vertical li{float:none;width:100%}
+.wprs_unslider-fade{position:relative}
+.wprs_unslider-fade .wprs_unslider-wrap li{position:absolute;left:0;top:0;right:0;z-index:8;list-style-type: none;}
+.wprs_unslider-fade .wprs_unslider-wrap li.wprs_unslider-active{z-index:10}
+.wprs_unslider li,.wprs_unslider ol,.wprs_unslider ul{list-style:none;margin:0;padding:0 !important;border:none;list-style-type: none;}
+.wprs_unslider-arrow{position:absolute;left:5px;z-index:2;cursor:pointer}
+.wprs_unslider-arrow.next{left:auto;}
+.wprs_unslider-arrow {
+    display: block;
+    width: 32px;
+    height: 32px;
+    top: 50%;
+    right: 5px;
+    left: auto;
+    margin-top: -16px;
+    overflow: hidden;
+    background: rgba(0,0,0,.2) no-repeat 50% 50%;
+    background-image: url("/web/20230723183619im_/https://pmhae2.p3cdn1.secureserver.net/wp-content/plugins/wp-yelp-review-slider/public/css/imgs/slider_arrow.png");
+    background-size: 7px 11px;
+    border-radius: 32px !important;
+    text-indent: -999em;
+    opacity: .6;
+    transition: opacity .2s;
+	border-width: 0px 0px 0px 0px !important;
+}
+.wprs_unslider-arrow.prev {
+    left: 5px;
+    right: auto;
+    -ms-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+}
+.wprev-slider {
+    margin-left: 42px;
+    margin-right: 42px;
+}
+/*
+     FILE ARCHIVED ON 18:36:19 Jul 23, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:42:20 Oct 17, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 229.289
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.074
+  cdx.remote: 0.062
+  esindex: 0.01
+  LoadShardBlock: 200.81 (3)
+  PetaboxLoader3.datanode: 199.189 (5)
+  PetaboxLoader3.resolve: 174.316 (3)
+  load_resource: 196.294
+  loaddict: 43.522
+*/
